@@ -1,4 +1,4 @@
-# bitpatterns
+# bitstring-knitting
 The notebook `distance_patterns`contains a visual inspection of distances between bit strings.
 The idea is:
 * take a string distance
